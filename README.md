@@ -152,9 +152,6 @@ public void keyPressed(KeyEvent e) {
 
 The spacebar lets the bird jump by applying a negative velocity.
 
-🖼️ Gameplay Preview
-
-(You can add a screenshot or GIF of the game here once available.)
 
 🛠️ Tech Stack
 
